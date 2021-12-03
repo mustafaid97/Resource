@@ -290,6 +290,12 @@ body {
 
 /* start sections  */
 
+@media  (max-width: 780px) {
+    .sec-1 .main-heading h1 {
+        font-size: 45px;
+    }
+}
+
 .sec-1 .second-heading {
     background-image: linear-gradient(140deg, #FFC90A, #f9c74f);
 }
