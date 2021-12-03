@@ -64,6 +64,13 @@ body {
     padding: 14px;
     width: 280px;
 }
+@media (max-width: 780px) {
+    .section-content .section-links ul {
+        padding-bottom: 0px;
+        padding-top: 0;
+    }
+}
+    
 
 .section-content .section-links ul li {
     padding: 10px;
